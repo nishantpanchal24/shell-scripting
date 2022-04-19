@@ -2,6 +2,15 @@
 shell-scripting for fun
 how to excute shell scripti
 
+sh , BASH , KSH , CSH , ZSH
+Our choice - BASH
+
+Reason why bash
+
+1. BASH is default in Redhat Family os
+2. BASH is having features of SH, KSH, CSH
+3. 
+
 ## topic
 
 ''''
