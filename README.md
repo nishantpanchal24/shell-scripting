@@ -1,5 +1,6 @@
 # shell-scripting
 shell-scripting for fun
+how to excute shell scripti
 
 ## topic
 
