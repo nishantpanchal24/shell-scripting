@@ -9,7 +9,14 @@ Reason why bash
 
 1. BASH is default in Redhat Family os
 2. BASH is having features of SH, KSH, CSH
-3. 
+3. in Redhat family OS, SH and bash are same
+
+shell scripting file 
+------------------------------------------
+.sh 
+.bash
+
+Extentsion are only for our understanding , usally we make . sh as extention for sheel scrirpting files 
 
 ## topic
 
@@ -27,3 +34,9 @@ Reason why bash
 ''''''''
 then go with setting up RoboShop Project
 ''''''''''''''''''
+
+how to execute shell script 
+
+bash script.sh
+sh script.sh
+,,,
