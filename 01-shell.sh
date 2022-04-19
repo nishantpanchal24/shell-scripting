@@ -10,3 +10,8 @@ ls
 ls -ltr
 
 mkdir nishantpanchal
+
+
+mkdir /tmp/tmpnihsantpnachal
+
+touch /tmp/touchpanchalhereonservser
